@@ -6,3 +6,5 @@ this project is to test out the use-case of git-flow and how it will be integrat
 added helloworld.sh
 
 added helloworld.bat
+
+added index.html
